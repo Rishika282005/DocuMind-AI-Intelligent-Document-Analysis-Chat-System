@@ -82,7 +82,7 @@ DocuMindAI
 ### Clone
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/DocuMindAI.git
+git clone https://github.com/YOUR_USERNAME/DocuMind-AI-Intelligent-Document-Analysis-Chat-System.git
 ```
 
 ---
